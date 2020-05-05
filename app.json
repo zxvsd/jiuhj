@@ -1,4 +1,4 @@
-{
+{ 
   "name": "Gost",
   "description": "Deploy Gost to Heroku.",
   "keywords": ["Gost"],
@@ -13,6 +13,6 @@
      }
   },
   "stack": "container",
-  "website": "https://github.com/VerSign010/gost-heroku",
-  "repository": "https://github.com/VerSign010/gost-heroku"
+  "website": "https://github.com/xiaokaixuan/gost-heroku",
+  "repository": "https://github.com/xiaokaixuan/gost-heroku"
  }
