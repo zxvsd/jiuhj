@@ -4,7 +4,7 @@
 
 > 2. 客户端本地代理，编辑`client.vbs`，后双击执行，或者直接运行命令。
 > ```
-> gost.exe -L :1080 -F ws://method:password@appname.herokuapp.com:443"
+> gost.exe -L :1080 -F ws://method:password@appname.herokuapp.com:443
 > ```
 
 > 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
