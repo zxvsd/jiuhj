@@ -9,6 +9,8 @@
 
 > 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
  
+> 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
+
 ### 附加
 
 > 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/kaixuan1115/gost-heroku/)。
