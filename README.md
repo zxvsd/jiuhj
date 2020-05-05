@@ -7,8 +7,8 @@
 > gost.exe -L :1080 -F ws://method:password@appname.herokuapp.com:443"
 > ```
 
-[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
-
+> 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
+ 
 ### 附加
 
 > 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/kaixuan1115/gost-heroku/)。
