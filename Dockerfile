@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-ENV VER=2.11.0 METHOD=chacha20 PASSWORD=eyp7q12dgsmx8jnekkhp
+ENV VER=2.11.0 METHOD=aes-256-cfb PASSWORD=eyp7q12dgsmx8jnekkhp
 ENV TLS_PORT=443
 
 RUN apk add --no-cache curl \
