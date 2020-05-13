@@ -4,7 +4,7 @@
 
 > 2. 客户端本地代理，直接运行以下命令，本地开放端口1080，默认支持socks协议。
 > ```
->    gost.exe -L :1080 -F ws://method:password@appname.herokuapp.com:443
+>    gost.exe -L=:1080 -F=ss+mwss://method:password@appname.herokuapp.com:443
 > ```
 
 > 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
