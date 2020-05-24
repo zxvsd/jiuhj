@@ -11,9 +11,7 @@
  
 > 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
 
-### 附加
 
-> 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/kaixuan1115/gost-heroku/)。
 
 ### 参考 
 *https://github.com/ginuerzh/gost*
