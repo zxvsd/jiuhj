@@ -11,18 +11,28 @@
  
 > 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
 
-> 5. 可通过cloudflare worker中转流量:
+> 5. 可通过cloudflare worker中转流量：
 
-addEventListener(
-    "fetch",event => {
-    let url=new URL(event.request.url);
-    url.hostname="appname.herokuapp.com";
-    let request=new Request(url,event.request);
-    event. respondWith(
-      fetch(request)
-    )
-  }
-)
+addEventListener(  
+
+    "fetch",event => {  
+
+        let url=new URL(event.request.url);  
+
+        url.hostname="appname.herokuapp.com";    
+
+        let request=new Request(url,event.request);  
+
+        event. respondWith(  
+
+            fetch(request)  
+
+        )  
+
+    }  
+
+)  
+
 
 
 ### 参考 
